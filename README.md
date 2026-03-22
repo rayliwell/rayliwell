@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Ryan Halliwell
 
-<img align="left" width="110" hspace="20" src="https://raw.githubusercontent.com/rayliwell/www/main/public/icon.svg" />
+<img align="left" width="100" hspace="20" src="https://raw.githubusercontent.com/rayliwell/www/main/public/icon.svg" />
 
 - Website: [rayliwell.com](https://rayliwell.com/)
 - Blog: [rayliwell.com/blog](https://rayliwell.com/blog)
