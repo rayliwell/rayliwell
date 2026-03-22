@@ -7,7 +7,7 @@
 - LinkedIn: [linkedin.com/in/rayliwell](https://linkedin.com/in/rayliwell/)
 - GitHub: [github.com/rayliwell](https://github.com/rayliwell)
 
-### 📚 Latest Blog Posts
+## 📚 Latest Blog Posts
 
 - [Tailwind Scroller: Easy scrolling animations using Tailiwnd CSS](https://rayliwell.com/blog/2025-03-12/tailwind-scroller-easy-scrolling-animations-using-tailiwnd-css)
 - [Getting stuff done with Nix derivations](https://rayliwell.com/blog/2025-01-04/getting-stuff-done-with-nix-derivations)
